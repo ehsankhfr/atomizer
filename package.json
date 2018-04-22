@@ -27,18 +27,18 @@
   },
   "preferGlobal": true,
   "dependencies": {
-    "chalk": "^1.0.0",
-    "commander": "^2.8.0",
-    "lodash": "^4.0.0",
-    "object-assign": "^4.0.0",
-    "xregexp": "^3.0.0"
+    "chalk": "^2.4.0",
+    "commander": "^2.15.1",
+    "lodash": "^4.17.5",
+    "object-assign": "^4.1.1",
+    "xregexp": "^4.1.1"
   },
   "devDependencies": {
-    "chai": "^3.4.0",
-    "coveralls": "^2.11.2",
-    "istanbul": "^0.4.0",
-    "jshint": "^2.6.3",
-    "mocha": "^2.2.1"
+    "chai": "^4.1.2",
+    "coveralls": "^3.0.0",
+    "istanbul": "^0.4.5",
+    "jshint": "^2.9.5",
+    "mocha": "^5.1.1"
   },
   "repository": {
     "type": "git",
