@@ -5,7 +5,7 @@
 [![npm version](https://badge.fury.io/js/atomizer.svg)](http://badge.fury.io/js/atomizer)
 [![Build Status](https://travis-ci.org/acss-io/atomizer.svg?branch=master)](https://travis-ci.org/acss-io/atomizer)
 [![Dependency Status](https://david-dm.org/acss-io/atomizer.svg)](https://david-dm.org/acss-io/atomizer)
-[![devDependency Status](https://david-dm.org/acss-io/atomizer/dev-status.svg)](https://david-dm.org/acss-io/atomizer#info=devDependencies)
+[![devDependency Status](https://david-dm.org/acss-io/atomizer/dev-status.svg)](https://david-dm.org/acss-io/atomizer?type=dev)
 [![Coverage Status](https://coveralls.io/repos/github/acss-io/atomizer/badge.svg?branch=master)](https://coveralls.io/github/acss-io/atomizer?branch=master)
 
 
